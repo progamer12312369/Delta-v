@@ -39,3 +39,15 @@
   name: PigeonBeans - Sunset
   path:
     path: /Audio/Jukebox/sunset.ogg
+
+- type: jukebox
+  id: redsun
+  name: Mao Zedang - Red sun in the sky
+  path:
+    path: /Audio/Jukebox/redsun.ogg
+
+- type: jukebox
+  id: subwaysurf
+  name: Subway surfers
+  path:
+    path: /Audio/Jukebox/subwaysurf.ogg
