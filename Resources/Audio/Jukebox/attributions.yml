@@ -36,6 +36,11 @@
   copyright: "custom"
   source: "youtube"
 
+- files: ["papers.ogg"]
+  license: "Custom"
+  copyright: "custom"
+  source: "youtube"
+
 - files: ["subwaysurf.ogg"]
   license: "Custom"
   copyright: "Custom"
