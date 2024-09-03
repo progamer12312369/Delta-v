@@ -63,3 +63,9 @@
   name: Billy Joel - Piano man
   path:
     path: /Audio/Jukebox/pianoman.ogg
+
+- type: jukebox
+  id: unt13
+  name: Untitled 13
+  path:
+    path: /Audio/Jukebox/unt13.ogg
