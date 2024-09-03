@@ -51,3 +51,15 @@
   name: Subway surfers
   path:
     path: /Audio/Jukebox/subwaysurf.ogg
+
+- type: jukebox
+  id: papers
+  name: Papers please - Main theme
+  path:
+    path: /Audio/Jukebox/papers.ogg
+
+- type: jukebox
+  id: pianoman
+  name: Billy Joel - Piano man
+  path:
+    path: /Audio/Jukebox/pianoman.ogg
