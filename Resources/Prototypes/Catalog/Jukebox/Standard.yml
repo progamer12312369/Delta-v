@@ -69,3 +69,9 @@
   name: Untitled 13
   path:
     path: /Audio/Jukebox/unt13.ogg
+
+- type: jukebox
+  id: starman
+  name: David Bowie - Starman
+  path:
+    path: /Audio/Jukebox/starman.ogg
