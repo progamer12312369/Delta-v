@@ -1,30 +1,6 @@
 ﻿Entries:
 - author: FluffiestFloof
   changes:
-  - message: Added fake wizard robes and sandals.
-    type: Add
-  id: 28
-  time: '2023-09-29T13:55:29.0000000+00:00'
-- author: PHCodes
-  changes:
-  - message: Added Mr. Butlertron, the Roboisseur
-    type: Add
-  id: 29
-  time: '2023-09-30T15:51:58.0000000+00:00'
-- author: FluffiestFloof
-  changes:
-  - message: Added the rickenbacker, killer tomato and useful spawners for mappers.
-    type: Add
-  id: 30
-  time: '2023-09-30T19:44:56.0000000+00:00'
-- author: DebugOk
-  changes:
-  - message: Mail has been reimplemented
-    type: Add
-  id: 31
-  time: '2023-10-01T16:25:32.0000000+00:00'
-- author: FluffiestFloof
-  changes:
   - message: Added the vector safe.
     type: Add
   id: 32
@@ -3563,3 +3539,42 @@
   id: 527
   time: '2024-09-07T22:05:05.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/1765
+- author: portfiend
+  changes:
+  - message: Added Rodentia, a new species of playable rodent-like humanoids.
+    type: Add
+  - message: Mobs that are capable of rummaging (such as the new Rodentia species)
+      can do so every five minutes. They will find small snacks in trash bins instead
+      of entire wheels of cheese.
+    type: Tweak
+  id: 528
+  time: '2024-09-08T02:04:34.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/1511
+- author: DisposableCrewmember42
+  changes:
+  - message: The wardrobe restock box can now be used to restock the CourierDrobe.
+      Lock and Load!
+    type: Fix
+  id: 529
+  time: '2024-09-08T02:10:06.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/1768
+- author: adeinitas
+  changes:
+  - message: Moths now have a bigger range of color. Existing moths may look weirder
+      than usual.
+    type: Tweak
+  id: 530
+  time: '2024-09-08T04:24:35.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/1695
+- author: Stop-Signs
+  changes:
+  - message: The Butlertron now gives you a bigger reward for fulfilling its food
+      requests (1200 spesos is the lowest payout).
+    type: Tweak
+  - message: The list of foods that the Butlertron demands has been adjusted to remove
+      some practically unobtainable foods. New and more common foods have been added,
+      and the reward amount for certain foods has been changed.
+    type: Tweak
+  id: 531
+  time: '2024-09-08T04:33:04.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/1771
