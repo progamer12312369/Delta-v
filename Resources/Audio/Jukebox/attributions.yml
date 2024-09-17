@@ -51,7 +51,7 @@
   copyright: "Custom"
   source: "youtube"
   
-- files: ["starman.ogg"
+- files: ["starman.ogg"]
   license: "custom"
   copyright: "custom"
   source: "youtube"
