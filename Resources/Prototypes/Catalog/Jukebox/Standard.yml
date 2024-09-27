@@ -75,3 +75,9 @@
   name: David Bowie - Starman
   path:
     path: /Audio/Jukebox/starman.ogg
+
+- type: jukebox
+  id: whysthis
+  name: Whys This dealer - Niko B
+  path:
+    path: /Audio/Jukebox/whysthis.ogg
