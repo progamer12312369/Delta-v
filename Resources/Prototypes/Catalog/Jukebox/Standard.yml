@@ -81,3 +81,9 @@
   name: Whys This dealer - Niko B
   path:
     path: /Audio/Jukebox/whysthis.ogg
+
+- type: jukebox
+  id: litter
+  name: Niko B - its not litter if you bin it
+  path:
+    path: /Audio/Jukebox/litter.ogg
