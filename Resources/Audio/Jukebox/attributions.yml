@@ -1,0 +1,67 @@
+- files: ["sector11.ogg"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "-Sector11 by MashedByMachines. Converted to mono OGG."
+  source: "https://www.newgrounds.com/audio/listen/312622"
+
+- files: ["mod.flip-flap.ogg"]
+  license: "Custom"
+  copyright: "Flip Flap by X-ceed is licensed under a short but clear license (see flip-flap.txt in Audio/Lobby) and is free for non-commercial use. Converted to mono OGG."
+  source: "http://aminet.net/package/mods/xceed/Flipflap"
+
+- files: ["title3.ogg"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Title3 by Cuboos. It is a remix of the song 'Tintin on the Moon'. Converted to mono OGG."
+  source: "https://www.youtube.com/watch?v=YKVmXn-Gv0M"
+
+- files:
+  - "constellations.ogg"
+  - "drifting.ogg"
+  - "starlight.ogg"
+  license: "CC-BY-3.0"
+  copyright: "Constellations by Qwertyquerty. Converted to mono OGG."
+  source: "https://www.youtube.com/channel/UCPYbhBUGhH7n_G4HLK2YipQ"
+
+- files: ["sunset.ogg"]
+  license: "CC-BY-SA-3.0"
+  copyright: "Sunset by PigeonBeans. Exported in Mono OGG."
+  source: "https://soundcloud.com/pigeonbeans/sunset"
+
+- files: ["redsun.ogg"]
+  license: "Custom"
+  copyright: "china"
+  source: "https://archive.org/details/Communism_shall_rule_the_world_forever"
+
+- files: ["pianoman.ogg"]
+  license: "Custom"
+  copyright: "custom"
+  source: "youtube"
+  
+- files: ["unit13.ogg"]
+  license: "Custom"
+  copyright: "custom"
+  source: "youtubr"
+
+- files: ["papers.ogg"]
+  license: "Custom"
+  copyright: "custom"
+  source: "youtube"
+
+- files: ["subwaysurf.ogg"]
+  license: "Custom"
+  copyright: "Custom"
+  source: "youtube"
+  
+- files: ["starman.ogg"]
+  license: "custom"
+  copyright: "custom"
+  source: "youtube"
+
+- files: ["whysthis.ogg"]
+  license: "custom"
+  copyright: "custom"
+  source: "youtube"
+
+- files: ["litter.ogg"]
+  license: "custom"
+  copyright: "custom"
+  source: "youtube - Niko B - it's not litter if you bin it"
